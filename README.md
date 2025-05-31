@@ -61,6 +61,8 @@ This project builds on the work of amazing contributors. A big shout-out to the 
 - [Shaan Chopra](https://https://github.com/freebirdyeah)
 - [Mrinal Dhami](https://github.com/Nalla-Turing)
 
+---
+## Stats
 ![GitHub forks](https://img.shields.io/github/forks/Yashovardhan-Singh/TinyGlyph2D?labelColor=grey&color=blue)
 
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Yashovardhan-Singh/TinyGlyph2D)
