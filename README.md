@@ -62,7 +62,9 @@ This project builds on the work of amazing contributors. A big shout-out to the 
 - [Mrinal Dhami](https://github.com/Nalla-Turing)
 
 ![GitHub forks](https://img.shields.io/github/forks/Yashovardhan-Singh/TinyGlyph2D?labelColor=grey&color=blue)
+
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Yashovardhan-Singh/TinyGlyph2D)
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/Yashovardhan-Singh/TinyGlyph2D)
 
 
